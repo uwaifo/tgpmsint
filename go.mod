@@ -17,20 +17,21 @@ require (
 	github.com/kat-co/vala v0.0.0-20170210184112-42e1d8b61f12
 	github.com/labstack/echo/v4 v4.3.0
 	github.com/lib/pq v1.10.2
+	github.com/pelletier/go-toml v1.9.3 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/rogpeppe/go-internal v1.8.0
 	github.com/rs/zerolog v1.23.0
 	github.com/rubenv/sql-migrate v0.0.0-20210614095031-55d5740dbbcc
 	github.com/spf13/cobra v1.1.3
-	github.com/spf13/viper v1.8.0
-	github.com/stretchr/testify v1.7.0
+	github.com/spf13/viper v1.15.0
+	github.com/stretchr/testify v1.8.1
 	github.com/volatiletech/null/v8 v8.1.2
 	github.com/volatiletech/randomize v0.0.1
 	github.com/volatiletech/sqlboiler/v4 v4.6.0
 	github.com/volatiletech/strmangle v0.0.1
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
-	google.golang.org/api v0.49.0
+	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
+	golang.org/x/sys v0.3.0
+	google.golang.org/api v0.107.0
 )
